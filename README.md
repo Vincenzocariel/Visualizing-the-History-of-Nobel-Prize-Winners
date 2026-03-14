@@ -1,5 +1,5 @@
 # Visualizing-the-History-of-Nobel-Prize-Winners
-:::writing{variant=“standard” id=“91842”}
+
 
 🏅 Nobel Prize Data Analysis
 
@@ -89,3 +89,5 @@ repeat_list
 📜 License
 
 This project is for educational and analytical purposes.
+
+You can view the code here: https://nbviewer.org/github/Vincenzocariel/Visualizing-the-History-of-Nobel-Prize-Winners/blob/main/notebook.ipynb
